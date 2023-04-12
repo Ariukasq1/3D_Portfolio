@@ -23,8 +23,8 @@ const Navbar = () => {
               window.scrollTo(0, 0);
             }}
           >
-            <img src={logo2} alt="logo" className="w-9 h-9 object-contain" />
-            <p className="text-white text-[18px] front-bold cursor-pointer">
+            <img src={logo2} alt="logo2" className="w-9 h-9 object-contain" />
+            <p className="text-white text-[18px] front-bold cursor-pointer flex">
               Ariunbold &nbsp;{' '}
               <span className="sm:block hidden">| Bayanmunkh</span>
             </p>
