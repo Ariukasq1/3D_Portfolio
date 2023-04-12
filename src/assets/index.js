@@ -26,6 +26,7 @@ import meta from './company/meta.png';
 import shopify from './company/shopify.png';
 import starbucks from './company/starbucks.png';
 import tesla from './company/tesla.png';
+import erxes from './company/erxes.svg';
 
 import carrent from './carrent.png';
 import jobit from './jobit.png';
@@ -60,5 +61,6 @@ export {
   tesla,
   carrent,
   jobit,
-  tripguide
+  tripguide,
+  erxes
 };
