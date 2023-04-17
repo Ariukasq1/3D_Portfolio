@@ -124,7 +124,7 @@ const experiences = [
     date: 'February 2021 - May 2021',
     points: [
       'Configuring S3 and Simple Email Service of AWS.',
-      'Deploying Erxes to XOS v1 version.',
+      'Deploying xos on enterprises ',
       'Improving the deployment documentation of Erxes.'
     ]
   },
@@ -136,7 +136,7 @@ const experiences = [
     date: 'May 2021 - August 2022',
     points: [
       'Developing and maintaining web applications using React.js and other related technologies.',
-      ' Discovering and implementing Cloudflare Pages to maximize development efficiency.',
+      'Discovering and implementing Cloudflare Pages to maximize development efficiency.',
       'Updating docusaurus v1 to v2.'
     ]
   },
